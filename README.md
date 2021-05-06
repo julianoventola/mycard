@@ -1,7 +1,7 @@
 # My Card App - [![Flutter](https://img.shields.io/badge/Flutter-dart-white?labelColor=blue&style=flat&link=https://flutter.dev/)](https://flutter.dev/)
 
 <br>
-  <img src="https://github.com/julianoventola/my_card/blob/master/mycard.JPG">
+  <img src="https://github.com/julianoventola/mycard/blob/master/mycard.JPG">
 
 ## Description
 
